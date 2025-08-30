@@ -1,5 +1,3 @@
-# ritvikjaiswal02
-My GitHub Profile README - MERN Stack Developer
 # 💫 About Me:
 🔭 I'm currently working on full-stack web applications using MERN stack and Next.js<br>
 👯 I'm looking to collaborate on open-source projects and innovative web solutions<br>
